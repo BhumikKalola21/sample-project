@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <p>It is Github demo for stream line our vue js project</p>
+    <p>It is Github demo for stream line our vue js project.</p>
   </div>
 </template>
 
