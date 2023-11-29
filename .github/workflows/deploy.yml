@@ -24,6 +24,7 @@ jobs:
             - name: Deploy
               uses: s0/git-publish-subdir-action@develop
               with:
+                REPO: sample-project
                 ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
                 BRANCH: gh-pages
                 FOLDER: dist
