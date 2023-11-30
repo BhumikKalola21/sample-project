@@ -4,7 +4,7 @@
     <p>
       Congratulations on setting up your Vue project! To streamline your
       development process and enhance collaboration, consider integrating
-      GitHub Actions into your workflow.
+      GitHub Actions into your workflow. 
     </p>
 
     <p>
