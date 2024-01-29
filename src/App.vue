@@ -2,7 +2,7 @@
   <div>
     <h1>{{ greeting }}</h1>
     <p>
-      Congratulations on setting up your Vue project! To streamline your
+      <b>Congratulations</b> on setting up your Vue project! To streamline your
       development process and enhance collaboration, consider integrating
       GitHub Actions into your workflow. 
     </p>
